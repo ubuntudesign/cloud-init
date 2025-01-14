@@ -19,14 +19,14 @@
   "dependencies": {
     "@canonical/cookie-policy": "3.6.4",
     "@canonical/global-nav": "3.6.2",
-    "postcss": "8.4.33",
+    "postcss": "8.5.1",
     "vanilla-framework": "4.6.0"
   },
   "devDependencies": {
     "@11ty/eleventy": "1.0.2",
-    "autoprefixer": "10.4.17",
+    "autoprefixer": "10.4.20",
     "concurrently": "7.6.0",
-    "sass": "1.70.0",
+    "sass": "1.83.4",
     "postcss-cli": "10.1.0",
     "stylelint": "14.16.1",
     "stylelint-config-standard-scss": "6.1.0",
